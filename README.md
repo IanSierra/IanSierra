@@ -39,7 +39,7 @@
 |----------|-------------|-------------|
 | **[Gestor de Red](enlace)** | Aplicación web para administración de redes corporativas | ![React](https://img.shields.io/badge/-React-61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1) |
 | **[Sistema de Inventarios](enlace)** | Gestor para tienda de vestidos con reportes en tiempo real | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Django](https://img.shields.io/badge/-Django-092E20) |
-| **[Robótica Educativa](enlace)** | Minisumo electrónico y carretilla autónoma con ESP32 | ![C++](https://img.shields.io/badge/-C++-00599C) ![Microcontroladores](https://img.shields.io/badge/-ESP32-E7352C) |
+| **[Robótica Educativa]** | Minisumo electrónico y carretilla autónoma con ESP32 | ![C++](https://img.shields.io/badge/-C++-00599C) ![Microcontroladores](https://img.shields.io/badge/-ESP32-E7352C) |
 | **[Visualización 3D](enlace)** | Diagramas interactivos 3D para proyectos universitarios | ![Java3D](https://img.shields.io/badge/-Java3D-007396) ![Blender](https://img.shields.io/badge/-Blender-FF6F00) |
 
 ---
