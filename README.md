@@ -45,11 +45,12 @@
 ✅ Gestión multirol (admin/vendedor)  
 ✅ Sistema de transacciones complejas  
 
-| **Otros Proyectos** | |
-|----------------------|---------|
-| **[Gestor de Red](enlace)** | Aplicación web para administración de redes corporativas |
-| **[Robótica Educativa](enlace)** | Minisumo electrónico con ESP32 |
-| **[Visualización 3D](enlace)** | Diagramas interactivos para proyectos universitarios |
+| **Proyectos Web & Redes**      | Tecnologías                                  | 
+|-------------------------------|---------------------------------------------|
+| 🕸️ **[Sistema de Monitoreo de Redes](enlace)**  <br> Plataforma web para administración corporativa de infraestructura de red  | ![React](https://img.shields.io/badge/-React-61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1) |
+| 📡 **[IoT Network Dashboard](enlace)**  <br> Panel de control web para dispositivos IoT (ESP32) con visualización de datos en tiempo real | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Flask](https://img.shields.io/badge/-Flask-000000) ![WebSockets](https://img.shields.io/badge/-WebSockets-010101) |
+| 🌐 **[Gestor de Configuraciones de Red](enlace)**  <br> Herramienta web para automatización de configuraciones de routers y switches | ![Django](https://img.shields.io/badge/-Django-092E20) ![Netmiko](https://img.shields.io/badge/-Netmiko-007ACC) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3) |
+|
 
 ---
 
