@@ -3,7 +3,7 @@
 
 **🎓 Estudiante de Ingeniería en Sistemas Computacionales**  
 📍 Tecnológico de Uruapan, Mich. | 💻 **Apasionado por el desarrollo full-stack y sistemas embebidos**  
-🚀 Enfoque en soluciones innovadoras que integran software, hardware y modelado 3D.
+🚀 Enfoque en soluciones innovadoras que integran software, hardware y Redes.
 
 ---
 
